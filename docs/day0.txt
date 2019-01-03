@@ -1,0 +1,3 @@
+Learnt how to use implicit variables.
+Learnt how to create implicit classes for writing extended methods to existing objects
+
